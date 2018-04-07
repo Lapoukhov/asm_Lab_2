@@ -1,5 +1,4 @@
 ## Lab 2 (FASM)
-
 ### Task:
 
 An integer multidimensional array is given. Display the odd elements of the array and count their sum.
