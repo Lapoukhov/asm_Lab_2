@@ -1,4 +1,4 @@
-## asm Lab 1
+## asm Lab 2
 
 ### Task:
 
