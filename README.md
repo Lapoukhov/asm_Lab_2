@@ -57,7 +57,6 @@ writeArray:                ;Вывод нечетных элементов
   int 21h
 
 next2:
-
   add si, 1
   mov dx, 32
   int 21h
