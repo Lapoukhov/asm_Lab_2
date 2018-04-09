@@ -7,11 +7,11 @@ An integer multidimensional array is given. Display the odd elements of the arra
 org 100h
 
 start:
-  mov ah, $09         ;Вывод текста
+  mov ah, $09         
   mov dx, Hello
   int 21h
 
-  mov ah, $09         ;Вывод текста
+  mov ah, $09         
   mov dx, text
   int 21h
 ;---------------------------------------------------
